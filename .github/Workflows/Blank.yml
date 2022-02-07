@@ -1,6 +1,6 @@
 name: apan_di
  
-on: [workflow_dispatch]
+on: [workflows_dispatch]
  
 jobs:
   build:
