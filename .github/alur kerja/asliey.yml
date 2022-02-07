@@ -1,10 +1,10 @@
-name: kapten_crypto
+name: apan_di
  
 on: [workflow_dispatch]
  
 jobs:
   build:
-    name: kapten_crypto
+    name: apan_di
     runs-on: windows-latest
     strategy:
       max-parallel: 5
